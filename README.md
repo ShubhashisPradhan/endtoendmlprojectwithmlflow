@@ -79,3 +79,5 @@ set MLFLOW_TRACKING_USERNAME=ShubhashisPradhan
 set MLFLOW_TRACKING_PASSWORD=2305415400b3a6db19a01dc8bfc7815d10899105
 
 ```
+
+693068213439.dkr.ecr.ap-south-1.amazonaws.com/mlproj
